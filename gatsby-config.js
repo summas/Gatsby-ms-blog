@@ -3,12 +3,12 @@ module.exports = {
     title: `備忘録ブログ`,
     author: {
       name: `masa`,
-      summary: `日本在住、SIerからweb系のエンジニアになりたい`,
+      summary: `日本在住、web系のエンジニアになりたい`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `masasum3`,
     },
   },
   plugins: [
